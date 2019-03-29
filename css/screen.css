@@ -253,6 +253,7 @@ a:focus {
     display: -ms-flexbox;
     display: flex;
     flex-wrap: wrap;
+    width: 100%;
 }
 
     .o-layout__item {
